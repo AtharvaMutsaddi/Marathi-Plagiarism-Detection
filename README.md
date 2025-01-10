@@ -3,6 +3,7 @@
 This repository contains the implementation and dataset for the paper "Enhancing Plagiarism Detection in Marathi with a Weighted Ensemble of TF-IDF and BERT Embeddings for Low-Resource Language Processing". It focuses on improving Marathi plagiarism detection using a weighted ensemble of TF-IDF and BERT embeddings.
 
 # Please Cite our Work:
+If you use any datasets or refer to our methodology please cite our work via the following BibTeX citation:
 ```
 @misc{mutsaddi2025enhancingplagiarismdetectionmarathi,
       title={Enhancing Plagiarism Detection in Marathi with a Weighted Ensemble of TF-IDF and BERT Embeddings for Low-Resource Language Processing}, 
